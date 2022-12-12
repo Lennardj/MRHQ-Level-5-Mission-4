@@ -1,6 +1,6 @@
 // const { expect } = require("chai");
 // const request = require("supertest")("https://localhost:3000/");
-const Main = require("./index");
+const Main = require("./main");
 const recInput = [
   "collide",
   "crash",
